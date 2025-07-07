@@ -2,7 +2,7 @@
 
 This project is a **deep learning-based web application** built with **Streamlit** that detects diseases in tomato plants using image classification via a **Convolutional Neural Network (CNN)** model.
 
-🌐 **Available in English 🇬🇧, Hindi 🇮🇳, and Tamil 🇮🇳** for accessibility and ease of use by diverse user groups.
+🌐 **Available in English, Hindi, and Tamil  for accessibility and ease of use by diverse user groups.
 
 ---
 
