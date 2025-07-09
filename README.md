@@ -1,4 +1,4 @@
-# 🍅 Tomato Disease Detection
+# 🍅 Tomato Plant Disease Detection
 
 This project is a **deep learning-based web application** built with **Streamlit** that detects diseases in tomato plants using image classification via a **Convolutional Neural Network (CNN)** model.
 
